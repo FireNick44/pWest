@@ -5,7 +5,6 @@ Willkommen in dem
 
 ## Beispiel
 
-
 In diesem Readme-File werden wir eine Einführung in die grundlegenden Konzepte von HTML, CSS und JavaScript bieten. Diese drei Sprachen bilden die Basis für die meisten modernen Websites und sind für jeden Webentwickler unerlässlich.
 Nun folgt ein kleines Beispiel einer ersten Website. Der Code findet man auch unter: [src/beispiel/](./src/beispiel/)
 
