@@ -1,0 +1,35 @@
+body{
+   margin: 0;
+   padding: 0;
+   height: 100%;
+   width: 100%;
+}
+
+button{
+   position: absolute;
+   margin: auto;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+
+   height: 50px;
+   width: 100px;
+
+   color: #ffffff;
+   text-align: center;
+   vertical-align: middle;
+   font-size: 12px;
+   
+   background-color: rgb(100, 100, 100);
+   border: 1px solid transparent;
+   border-radius: 6px;
+   
+   cursor: pointer;
+   transition: .3s all;
+}
+
+button:hover {
+   background-color: rgb(66, 66, 66);
+   transition: .3s all;
+}
