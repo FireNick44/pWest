@@ -1,7 +1,7 @@
 ## Einführung
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide1.png" height="250px">
+   <img align="center" src="./src/img/slides/slide1.png" width="100%">
 </p>
 
 ### Hello World
@@ -9,7 +9,7 @@
 Willkommen in der Welt der Programmierung! In diesem Dokument werden ihr mit den Grundlagen der Computerprogrammierung Bekanntschaft machen.
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide2.png" height="250px">
+   <img align="center" src="./src/img/slides/slide2.png" width="100%">
 </p>
 
 ### Was ist Programmieren?
@@ -17,13 +17,13 @@ Willkommen in der Welt der Programmierung! In diesem Dokument werden ihr mit den
 Programmieren ist der Prozess der Erstellung von Anweisungen, die ein Computer ausführen soll. Diese Anweisungen, die auch als Code bezeichnet werden, werden in einer bestimmten Programmiersprache geschrieben. Es gibt viele verschiedene Programmiersprachen, von denen jede ihre eigenen Stärken und Schwächen hat. Um einen einfach Einstieg zu haben werden wir nur mit JavaScript arbeiten. In diesem Dokument werden wir uns auf die Konzepte und Prinzipien konzentrieren, die allen Programmiersprachen gemeinsam sind.
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide3.png" height="250px">
+   <img align="center" src="./src/img/slides/slide3.png" width="100%">
 </p>
 
 Nach chatGPT (eine KI) ist Programmieren der Prozess des Schreibens von Anweisungen für einen Computer, um ihm zu sagen, was er tun soll. Generell kann ich dieser Interpretation zustimmen, ich würde jedoch ein paar Dinge abändern. Ich finde, Informatiker dienen als Schnittstelle zwischen Mensch und Maschine, also als eine Art Dolmetscher.
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide4.png" height="250px">
+   <img align="center" src="./src/img/slides/slide4.png" width="100%">
 </p>
 
 ### Menschen/Maschinen -sprache und IDE's
@@ -35,7 +35,7 @@ Maschinensprache ist die Sprache, die direkt von einem Computer verstanden wird.
 Eine IDE (Integrated Development Environment) ist eine Anwendung, die es Entwicklern ermöglicht, Anweisungen in einer Programmiersprache (wie JavaScript, HTML, CSS) zu schreiben, zu testen und zu debuggen. IDE's enthalten meistens Tools wie Syntax-Highlighting, Auto-Vervollständigung und Debugging-Funktionen, die es Entwicklern erleichtern, ihren Code zu schreiben und Fehler zu finden.
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide5.png" height="250px">
+   <img align="center" src="./src/img/slides/slide5.png" width="100%">
 </p>
 
 ### Binärsystem
@@ -52,7 +52,7 @@ Zu der Frage: Wie hoch kann man mit seinen Finger zählen?
 Mit unseren Fingern können wir eine Dezimalzahl bis zu 10 zählen (da wir 10 Finger haben). Das Binärsystem hingegen hat nur 2 Ziffern (0 und 1) und kann daher nur zwei Zustände repräsentieren (z.B. an/aus, wahr/falsch). Mit einer kombinierung von wahr/flasch bzw 0 und 1 können wir bis auf ~1023 zählen.
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide6.png" height="250px">
+   <img align="center" src="./src/img/slides/slide6.png" width="100%">
 </p>
 
 ### Wie funktioniert Google?
@@ -64,7 +64,7 @@ Google verwendet einen Algorithmus, um die Ergebnisse zu sortieren und anzuzeige
 Eine Person ohne Informatikgrundwissen kann sich das so vorstellen, als würde man eine Bibliothek betreten und nach einem bestimmten Buch suchen. Google durchsucht das Internet wie die Bibliothekar die Bücherregale durchsucht und sortiert die Ergebnisse nach Relevanz und das innerhalb von nicht einmal einer Sekunde.
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide7.png" height="250px">
+   <img align="center" src="./src/img/slides/slide7.png" width="100%">
 </p>
 
 ### Webentwicklung
@@ -78,7 +78,7 @@ Das Frontend hingegen bezieht sich auf die Clientseitigen Arbeiten. Es umfasst d
 ## Geschichte
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide10.png" height="250px">
+   <img align="center" src="./src/img/slides/slide10.png" width="100%">
 </p>
 
 ### Mondlandung
@@ -90,7 +90,7 @@ In Bezug auf Speichergrösse und Prozessorleistung hat sich die Technologie sehr
 Diese Entwicklungen ermöglichten es uns, immer komplexere Aufgaben auszuführen und immer mehr Daten zu speichern. Heute hat man keine, Speicherplatz Probleme mehr, im Gegenteil wurden unsere Programme so komplex das immer stärkere Prozessoren benötigt werden.
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide11.png" height="250px">
+   <img align="center" src="./src/img/slides/slide11.png" width="100%">
 </p>
 
 ### Mooresche Gesetz
@@ -100,7 +100,7 @@ Das Mooresche Gesetz besagt, dass die Anzahl der Transistoren (eine Art von elek
 Ein einfaches Beispiel: Stellen dir vor, du hast eine Schachtel voller Legosteine. Jedes Mal, wenn du die Schachtel öffnest, finden du dort doppelt so viele Legosteine wie zuvor. Das ist ähnlich wie das Mooresche Gesetz, nur dass es sich um Computerchips und Transistoren handelt und nicht um Legosteine.
 
 <p align="center">
-   <img align="center" src="./src/img/slides/slide12.png" height="250px">
+   <img align="center" src="./src/img/slides/slide12.png" width="100%">
 </p>
 
 ### Nachteile
