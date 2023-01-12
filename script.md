@@ -1,6 +1,4 @@
-
 ## Einführung
-
 
 <p align="center">
    <img align="center" src="./src/img/slides/slide1.png" height="250px">
@@ -9,7 +7,6 @@
 ### Hello World
 
 Willkommen in der Welt der Programmierung! In diesem Dokument werden ihr mit den Grundlagen der Computerprogrammierung Bekanntschaft machen.
-
 
 <p align="center">
    <img align="center" src="./src/img/slides/slide2.png" height="250px">
@@ -41,7 +38,6 @@ Eine IDE (Integrated Development Environment) ist eine Anwendung, die es Entwick
    <img align="center" src="./src/img/slides/slide5.png" height="250px">
 </p>
 
-
 ### Binärsystem
 
 Das Binärsystem (auch Dualsystem genannt) ist ein Zahlensystem, das nur die Ziffern 0 und 1 verwendet. Im Gegensatz dazu verwendet das Dezimalsystem (das Zahlensystem, das wir normalerweise verwenden) die Ziffern 0 bis 9.
@@ -71,7 +67,6 @@ Eine Person ohne Informatikgrundwissen kann sich das so vorstellen, als würde m
    <img align="center" src="./src/img/slides/slide7.png" height="250px">
 </p>
 
-
 ### Webentwicklung
 
 Backend und Frontend sind Begriffe, die in der Webentwicklung verwendet werden und die die verschiedenen Aspekte einer Website beschreiben.
@@ -80,13 +75,11 @@ Das Backend einer Website bezieht sich auf die Serverseitige Arbeiten. Es umfass
 
 Das Frontend hingegen bezieht sich auf die Clientseitigen Arbeiten. Es umfasst die Gestaltung und die Benutzerfreundlichkeit der Website, die dafür sorgt, dass die Website für den Benutzer gut aussieht und einfach zu bedienen ist. (Dazu gehören z.B. HTML, CSS und JavaScript)
 
-
-## Geschichte 
+## Geschichte
 
 <p align="center">
    <img align="center" src="./src/img/slides/slide10.png" height="250px">
 </p>
-
 
 ### Mondlandung
 
@@ -100,7 +93,6 @@ Diese Entwicklungen ermöglichten es uns, immer komplexere Aufgaben auszuführen
    <img align="center" src="./src/img/slides/slide11.png" height="250px">
 </p>
 
-
 ### Mooresche Gesetz
 
 Das Mooresche Gesetz besagt, dass die Anzahl der Transistoren (eine Art von elektronischen Schaltern) auf einem Computerchip alle 18 bis 24 Monate etwa verdoppelt werden. Dies bedeutet, dass Computerchips immer kleiner und leistungsfähiger werden, was es ermöglicht, mehr Funktionen in einen kleineren und billigeren Chip zu packen.
@@ -110,7 +102,6 @@ Ein einfaches Beispiel: Stellen dir vor, du hast eine Schachtel voller Legostein
 <p align="center">
    <img align="center" src="./src/img/slides/slide12.png" height="250px">
 </p>
-
 
 ### Nachteile
 
@@ -126,6 +117,6 @@ Einige Umweltnachteile, die durch Programmierung entstehen können, sind:
 
 // wird noch geschrieben
 
-## Praxis Aufgabe 
+## Praxis Aufgabe
 
 // wird auch noch geschrieben
