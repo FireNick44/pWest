@@ -1,16 +1,16 @@
 body {
-   font-family: Arial, sans-serif;
-   background-color: grey;
-   color: white;
-   text-align: center;
- }
- 
- h1 {
-   font-size: 32px;
-   color: #333;
- }
- 
- p {
-   font-size: 16px;
-   color: #333;
- }
+  font-family: Arial, sans-serif;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 32px;
+  color: #333;
+}
+
+p {
+  font-size: 16px;
+  color: #333;
+}

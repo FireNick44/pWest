@@ -10,6 +10,8 @@
    Yannic Studer
 </p>
 
+<!-- HEAD -->
+
 ## Lösung
 
 // wird noch geschrieben

@@ -10,6 +10,7 @@
    Yannic Studer
 </p>
 
+<!-- HEAD -->
 
 ## Geschichte
 

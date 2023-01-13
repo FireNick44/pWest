@@ -1,4 +1,4 @@
-[.](./README.md)
+[Gross](./README.md)
 
 <p align="center">
    <img align="center" src="./src/img/favicon.png" height="250px">
@@ -9,6 +9,9 @@
 <p align="center">
    Yannic Studer
 </p>
+
+<!-- HEAD -->
+
 
 ## Hallo Welt
 Willkommen im GitHub-Repository pWest! Dieses Repository bietet eine Sammlung von Folien und Aufgaben die dazu beitragen sollen, Grundlagen der Informatik und des Programmierens für Neuling zugänglich und verständlich zu machen. Die Aufgaben und Übungen sind so konzipiert, dass sie die Kreativität und das logische Denken der Schüler fördern und ihnen helfen, die grundlegenden Konzepte der Informatik zu verstehen. Ich hoffen, dass dieses Repository für Lehrer, Eltern und Schüler gleichermassen nützlich sein wird und ich freue mich, von Ihren Erfahrungen und Rückmeldungen zu hören.

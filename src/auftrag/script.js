@@ -1,8 +1,8 @@
-window.addEventListener('resize', windowResize());
+window.addEventListener("resize", windowResize());
 
-function windowResize(){
-    var windowWidth = document.documentElement.clientWidth;
-    var windowHeight = document.documentElement.clientHeight;
+function windowResize() {
+  var windowWidth = document.documentElement.clientWidth;
+  var windowHeight = document.documentElement.clientHeight;
 
-    console.log( windowWidth + ' X ' + windowHeight);
+  console.log(windowWidth + " X " + windowHeight);
 }
