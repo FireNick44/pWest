@@ -1,3 +1,5 @@
+[.](./README.md)
+
 <p align="center">
    <img align="center" src="./src/img/favicon.png" height="250px">
 </p>
@@ -8,58 +10,31 @@
    Yannic Studer
 </p>
 
-## Beispiel
+## Hallo Welt
+Willkommen im GitHub-Repository pWest! Dieses Repository bietet eine Sammlung von Folien und Aufgaben die dazu beitragen sollen, Grundlagen der Informatik und des Programmierens für Neuling zugänglich und verständlich zu machen. Die Aufgaben und Übungen sind so konzipiert, dass sie die Kreativität und das logische Denken der Schüler fördern und ihnen helfen, die grundlegenden Konzepte der Informatik zu verstehen. Ich hoffen, dass dieses Repository für Lehrer, Eltern und Schüler gleichermassen nützlich sein wird und ich freue mich, von Ihren Erfahrungen und Rückmeldungen zu hören.
 
-In diesem Readme-File werden wir eine Einführung in die grundlegenden Konzepte von HTML, CSS und JavaScript bieten. Diese drei Sprachen bilden die Basis für die meisten modernen Websites und sind für jeden Webentwickler unerlässlich.
-Nun folgt ein kleines Beispiel einer ersten Website. Der Code findet man auch unter: [src/beispiel/](./src/beispiel/)
+Viel Spass beim Entdecken und Lernen!
 
-### HTML
+## Inhalt
 
-HTML (Hypertext Markup Language) ist die Grundlage jeder Website und definiert die Struktur und den Inhalt einer Webseite. Hier ist ein Beispiel für eine einfache HTML-Seite:
+<p align="center">
+   <img align="center" src="./src/img/slides/slide0.png" width="100%">
+</p>
 
-```
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Meine erste Webseite</title>
-  </head>
-  <body>
-    <h1>Willkommen auf meiner Webseite</h1>
-    <p>Ich freue mich, dass du hier bist.</p>
-  </body>
-</html>
-```
+- ### [Einführung](./einfuehrung.md)
+> In diesem Kapitel werden die grundlegenden Konzepte der Informatik und des Programmierens erläutert
+- ### [Geschichte](./geschichte.md)
+> In diesem Kapitel werden ein paar interessante geschichtliche Ereignisse behandelt
+- ### [Code schreiben](./code.md)
+> In diesem Kapitel werden die Schüler Schritt für Schritt durch die Grundlagen des Schreibens von HTML, CSS und JavaScript geführt.
+- ### [Praxis Aufgabe](./aufgabe.md)
+> In diesem Kapitel werden die Schüler aufgefordert, das Gelernte in die Praxis anhand einer Aufgabe umzusetzen.
 
-### CSS
+## Lizenz
+Projekt ist [MIT](./LICENSE) lizenziert
 
-CSS (Cascading Style Sheets) ist eine Sprache, die verwendet wird, um das Aussehen und das Format von HTML-Elementen zu definieren. Hier ist ein Beispiel für eine CSS-Datei, die zu der obigen HTML-Seite gehört:
+<br>
+<br>
+<br>
 
-```
-body {
-  font-family: Arial, sans-serif;
-  background-color: grey;
-  color: white;
-  text-align: center;
-}
-
-h1 {
-  font-size: 32px;
-  color: #333;
-}
-
-p {
-  font-size: 16px;
-  color: #333;
-}
-```
-
-### JavaScript
-
-JavaScript ist eine clientseitige Programmiersprache, die in HTML-Webseiten eingebettet wird. Hier ist ein Beispiel für ein JavaScript-Skript, das zu der obigen HTML- und CSS-Datei gehört:
-
-```
-function sayHello() {
-  alert('Hallo Welt!');
-  console.log('Hallo Welt!');
-}
-```
+[Zum nächsten Kapitel?](./einfuehrung.md)
